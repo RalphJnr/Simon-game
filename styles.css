@@ -10,13 +10,6 @@ body {
   color: #FEF2BF;
 }
 
-.mobile-level-title {
-  visibility: hidden;
-}
-
-.icon {
-  visibility: hidden;
-}
 
 .container {
   display: block;
